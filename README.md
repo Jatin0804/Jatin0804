@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **cpp, DSA, frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jatin0804]([https://github.com/Jatin0804](https://github.com/Jatin0804/Projects))
+- 👨‍💻 All of my projects are available at [https://github.com/Jatin0804/Projects](https://github.com/Jatin0804/Projects)
 
 - 💬 Ask me about **cpp, python, DSA**
 
