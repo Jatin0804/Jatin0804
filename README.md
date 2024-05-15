@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jatin0804/Projects](https://github.com/Jatin0804/Projects)
 
-- 💬 Ask me about **DSA problems, OOPs concepts, Python programming and most importantly DSA concepts**
+- 💬 Ask me about **DSA problems, OOPs concepts, Python programming and, uhh did I mention DSA concepts**
 
 - 📫 How to reach me **jatin080402@gmail.com, jatinbkbiet@gmail.com**
 
