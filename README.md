@@ -30,6 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tushardahiyaa/tushardahiyaa/output/snake.svg" alt="Snake animation" />
+<img src="[https://github.com/Jatin0804/Jatin0804/blob/main/.github/workflows/snake.yml]" alt="Snake animation" />
 
 ###
