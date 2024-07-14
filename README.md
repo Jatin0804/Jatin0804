@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, You have reached Jatin</h1>
 <h3 align="center">A problem solving developer passionate about writing codes, while constantly learning new stuff. By the way, I am from India.</h3>
 
-- 🔭 I’m currently working on **creating a Chess game.**
+- 🔭 I’m currently working on **learning to develop games based on AI.**
 
 - 🌱 I’m currently learning **Next.js, Machine learning, and other Frameworks**
 
