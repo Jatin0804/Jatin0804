@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, You have reached Jatin</h1>
-<h3 align="center">A problem solving developer passionate about writing codes, while constantly learning new stuff. By the way, I am from India.</h3>
+<h3 align="center">A problem solving developer passionate about writing codes, while constantly learning new stuff.</h3>
+<h3 align="center">By the way, you will find me smiling. </h3>
 
 - 🔭 I’m currently working on **creating a python based Sorting Visualizer**
 
