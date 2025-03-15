@@ -2,17 +2,17 @@
 <h3 align="center">A problem solving developer passionate about writing codes, while constantly learning new stuff.</h3>
 <h3 align="center">By the way, you will find me smiling. </h3>
 
-- 🔭 I’m currently working on **creating a python based Sorting Visualizer**
+- 🔭 I’m currently working on [**creating a python based Sorting Visualizer**](https://github.com/Jatin0804/Sorting_visualizer)
 
 - 🌱 I’m currently learning **Artificial Intelligence, DevOps, and other Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jatin0804/Projects](https://github.com/Jatin0804/Projects)
+- 👨‍💻 Find my mini projects here: [Python Projects](https://github.com/Jatin0804/Python-Projects), [AI-ML projects](https://github.com/Jatin0804/AI-ML-Projects), [CPP projects](https://github.com/Jatin0804/CPP-Projects)
 
 - 💬 Ask me about **DSA problems, OOPs concepts, Python programming and, uhh did I mention DSA concepts**
 
 - 📫 How to reach me **jatin080402@gmail.com, jatinbkbiet@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11N7jUDpvFj0o_PIcvC7A2v8ef73kPbhR/view?usp=drive_link](https://drive.google.com/file/d/11N7jUDpvFj0o_PIcvC7A2v8ef73kPbhR/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WUa_zFaiE4KzYE_JwoRY794CXWeAsdhv/view?usp=sharing)
 
 - ⚡ Fun fact **I am an ambivert.**
 
