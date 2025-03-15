@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, You have reached Jatin</h1>
 <h3 align="center">A problem solving developer passionate about writing codes, while constantly learning new stuff. By the way, I am from India.</h3>
 
-- 🔭 I’m currently working on **learning to develop games based on AI.**
+- 🔭 I’m currently working on **creating a python based Sorting Visualizer**
 
-- 🌱 I’m currently learning **Next.js, Machine learning, and other Frameworks**
+- 🌱 I’m currently learning **Artificial Intelligence, DevOps, and other Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jatin0804/Projects](https://github.com/Jatin0804/Projects)
 
